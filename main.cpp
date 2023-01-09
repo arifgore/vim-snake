@@ -1,4 +1,3 @@
-#include <curses.h>
 #include <ncurses.h>
 #include "player.h"
 #include "screen.h"
