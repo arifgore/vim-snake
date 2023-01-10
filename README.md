@@ -6,6 +6,6 @@ I did not want it to be wasted, so I decided to declare a purpose for it and sha
 
 To compile it on Linux, run:
 ```shell
-g++ -o snakeOOP main.cpp $(pkg-config --libs ncursesw)
+g++ -o vimsnake main.cpp $(pkg-config --libs ncursesw)
 ```
 __ncurses and gcc are required.__
